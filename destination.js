@@ -249,25 +249,25 @@ const destinations = {
             {
                 name: "Betaab Valley",
                 image:
-                    "https://images.unsplash.com/photo-1609947017136-9daf32a5eb16?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHRWN24n5G6WknjYhQFZDI6bZHpUSnyQ3AEBBpexXAKS9z4q2WdyKU6xo&s=10"
             },
 
             {
                 name: "Aru Valley",
                 image:
-                    "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzPg2s7GydNtt4BtWYhoev7XJ7pwazgsS4jmvZH98GnpLpBVq_QT67tb_e&s=10"
             },
 
             {
                 name: "Lidder River",
                 image:
-                    "https://images.unsplash.com/photo-1437482078695-73f5ca6c96e2?w=800&auto=format&fit=crop&q=80"
+                    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1b/12/5e/trekking-in-lidderwat.jpg?w=1200&h=-1&s=1"
             },
 
             {
                 name: "Baisaran Valley",
                 image:
-                    "https://images.unsplash.com/photo-1518002054494-3a6f94352e9d?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP5VZGLWgG7IsloTXL67U1v9z29aCgXnMnGJijD3Twxa6Ppy5gokb4kEEh&s=10"
             }
 
         ],
@@ -278,19 +278,19 @@ const destinations = {
             {
                 name: "Pahalgam Hotel",
                 image:
-                    "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpiP0h_POnceNrHA333Yql45lLi7F_KOpfEgWS2UOHDwvLpyp8jO6GiIU&s=10"
             },
 
             {
                 name: "Welcomhotel by ITC",
                 image:
-                    "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbFsLFgaZ6DesrtMfiikcrZJlPKHCR5r7nB0_93qMEO__yFFltIGU21h8&s=10"
             },
 
             {
                 name: "Radisson Golf Resort",
                 image:
-                    "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM6xY14OdXqcLvJjjOMQujhZOHL92VK49pE8wjVctMI8Q5rWuwUI-Qzcwn&s=10"
             }
 
         ],
@@ -301,19 +301,19 @@ const destinations = {
             {
                 name: "Rogan Josh",
                 image:
-                    "https://images.unsplash.com/photo-1547592180-85f173990554?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDte7IzHMFBfnhSIxtrXOJ1zSz6wMze6ZC_7Cx6TQzhavIEYJj_xJ9GsYv&s=10"
             },
 
             {
                 name: "Yakhni",
                 image:
-                    "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&auto=format&fit=crop&q=80"
+                    "https://static01.nyt.com/images/2025/04/18/multimedia/ZS-Yakhni-Spiced-Chicken-Soup-With-Cilantro-hgtw/ZS-Yakhni-Spiced-Chicken-Soup-With-Cilantro-hgtw-mediumSquareAt3X.jpg"
             },
 
             {
                 name: "Kahwa",
                 image:
-                    "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGKfuItx9FIb4w0otIWcZRHgQiZ7dPr_WyNvf1OcWcHK0rgnTtPAX-LIY&s=10"
             }
 
         ],
@@ -359,25 +359,25 @@ const destinations = {
             {
                 name: "Tea Gardens",
                 image:
-                    "https://images.unsplash.com/photo-1594631252845-29fc4cc8cde9?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWZsvauOYhvJAwSTODC-3QsM1R6R0pNPRQqdgg4J0q1t7JjQOI0lE-OE2O&s=10"
             },
 
             {
                 name: "Eravikulam National Park",
                 image:
-                    "https://images.unsplash.com/photo-1549366021-9f761d450615?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUPprtoBLbgRBzU9mUdISWlOocVpeofIdz7y3vdO-cCt5k8w9xZPKdZ8&s=10"
             },
 
             {
                 name: "Mattupetty Dam",
                 image:
-                    "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyHhX9lD1ejjF329rNj7fks57WXrrqiedDjP9yULMuq-vNCIq23dWuPlfk&s=10"
             },
 
             {
                 name: "Top Station",
                 image:
-                    "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRao7tSt6lAXHj1vpxctxFnK9OC8NNuPLfh3XsZ2wWRIbatcsGOTUwnGPk&s=10"
             }
 
         ],
@@ -388,19 +388,19 @@ const destinations = {
             {
                 name: "Blanket Hotel",
                 image:
-                    "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3HQFd0FikZH8oF29hmqalo8_ZnmxyomQR1Qvymwa6dRoIMdsu2gS_ezdP&s=10"
             },
 
             {
                 name: "The Panoramic Getaway",
                 image:
-                    "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&auto=format&fit=crop&q=80"
+                    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/fa/07/99/the-panoramic-getaway.jpg?w=900&h=500&s=1"
             },
 
             {
                 name: "Tea County",
                 image:
-                    "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0KDB2iZx1lKIwQdsGzlvMhVvx6GBYc99kKIcQBcDULYV4ru6i62mfBPg&s=10"
             }
 
         ],
@@ -411,19 +411,19 @@ const destinations = {
             {
                 name: "Appam",
                 image:
-                    "https://images.unsplash.com/photo-1630383249896-424e482df921?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-glF_ryQNLL6IKP1-Pi1J05H0wd1WzACQXzHRt1-eA0a3j5Z2ihM6PITe&s=10"
             },
 
             {
                 name: "Puttu",
                 image:
-                    "https://images.unsplash.com/photo-1601050690597-df0568f70950?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv6S0VQDj-Rinc8_CC5arF4IRlsWlgEIHZbFMl-o83roRzpxMUwbjQzaEK&s=10"
             },
 
             {
                 name: "Kerala Sadya",
                 image:
-                    "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?w=800&auto=format&fit=crop&q=80"
+                    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYdvwpPD4_xsbtUy3ZlOWm3v9uRlC8jvdHtGWTyVym7ZHFXi8uuMBzLK5b&s=10"
             }
 
         ],
