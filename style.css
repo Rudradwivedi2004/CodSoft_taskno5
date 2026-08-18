@@ -664,7 +664,7 @@ footer a:hover {
 /* code for section3  -> */
 
 #section3{
-    height: 100vh;
+    min-height: 100vh;
     width: 100%;
 }
 
@@ -1767,4 +1767,10 @@ body {
         font-size: 30px;
     }
 
+}
+
+html,
+body {
+    overflow-x: hidden;
+    overflow-y: auto;
 }

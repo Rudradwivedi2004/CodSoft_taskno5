@@ -6,25 +6,25 @@ let locations = [
         state: "HIMACHAL PRADESH",
         city: "MANALI",
         slug: "manali",
-        image: "img/gunjan-mahanta-37krswjudM8-unsplash.jpg"
+        image: "https://images.unsplash.com/photo-1648131877984-f39ebc1647f1?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         state: "UTTARAKHAND",
         city: "RISHIKESH",
         slug: "rishikesh",
-        image: "img/avinash-kumar-9R5h66yG_SQ-unsplash.jpg"
+        image: "https://images.unsplash.com/photo-1718383538820-524dd564fd06?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         state: "KASHMIR",
         city: "PAHALGAM",
         slug: "pahalgam",
-        image: "img/ankur-khandelwal-C6ZAJO4ksiQ-unsplash.jpg"
+        image: "https://images.unsplash.com/photo-1666545380922-1296a4ac9521?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dhttps://images.unsplash.com/photo-1628918098760-471c0fad230c?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
         state: "KERALA",
         city: "MUNNAR",
         slug: "munnar",
-        image: "img/navi-vL0F-1-pruk-unsplash (1).jpg"
+        image: "https://images.unsplash.com/photo-1628918098760-471c0fad230c?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3Dimg/navi-vL0F-1-pruk-unsplash (1).jpg"
     }
 ];
 
